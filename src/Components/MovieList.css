@@ -1,0 +1,9 @@
+.movielist {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+body{
+    background-color: rgb(236, 248, 248);
+}
